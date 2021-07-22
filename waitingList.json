@@ -1,0 +1,50 @@
+{
+  "error": null,
+  "data": [
+    {
+      "customerName": "Nancy Argueta",
+      "serviceName": "Organic Herbal Ball Massage",
+      "startTime": "8:15 AM",
+      "duration": "15:00",
+      "type": "appt",
+      "avatar": null,
+      "isCanStartService": true
+    },
+    {
+      "customerName": "Nancy Argueta",
+      "serviceName": "Organic Herbal Ball Massage",
+      "startTime": "9:15 AM",
+      "duration": "15:00",
+      "type": "appt",
+      "avatar": null,
+      "isCanStartService": false
+    },
+    {
+      "customerName": "Nancy Argueta",
+      "serviceName": "Organic Herbal Ball Massage",
+      "startTime": "11:15 AM",
+      "duration": "15:00",
+      "type": "appt",
+      "avatar": null,
+      "isCanStartService": true
+    },
+    {
+      "customerName": "Kathy",
+      "serviceName": "Organic Herbal Ball Massage",
+      "startTime": "13:15 AM",
+      "duration": "45:00",
+      "type": "walk-in",
+      "avatar": null,
+      "isCanStartService": false
+    },
+    {
+      "customerName": "Kathy",
+      "serviceName": "Organic Herbal Ball Massage",
+      "startTime": "19:15 AM",
+      "duration": "30:00",
+      "type": "walk-in",
+      "avatar": null,
+      "isCanStartService": true
+    }
+  ]
+}
