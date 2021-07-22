@@ -1,0 +1,14 @@
+{
+  "error": null,
+  "data": [
+    {
+      "id": 1,
+      "customerName": "Nancy Argueta",
+      "serviceName": "Organic Herbal Ball Massage",
+      "startTime": "9:15 AM",
+      "duration": "15:00",
+      "isDone": true,
+      "avatar": null
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "error": null,
+  "data": {
+    "id": 111,
+    "status": 2,
+    "startTime": "9:15 AM",
+    "duration": "15:00",
+    "employeeName": "Kathy",
+    "checkInTime": "9:00:05 AM",
+    "turn": 1,
+    "ticket": 2,
+    "amount": 60,
+    "tips": 6,
+    "currencyUnit": "$"
+  }
+}
