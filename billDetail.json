@@ -1,0 +1,43 @@
+{
+    "orderId": 123456,
+    "date": "04.13.2021",
+    "time": "10:30 AM",
+    "customer": "Anna Trương",
+    "subTotal": 35,
+    "tip": 0,
+    "tax": 0,
+    "discount": 0,
+    "amountDue": 35,
+    "rewardPoint": 1669,
+    "pointEarned": 280,
+    "visa7428": 35,
+    "exte5555": 5,
+    "exte5666": 35,
+    "exte9999": 35,
+    "items": [
+        {
+            "serviceName": "Classic Pedicure",
+            "employee": "Jessica",
+            "quantity": 5,
+            "totalMoney": 135
+        },
+        {
+            "serviceName": "Waxing",
+            "employee": "Abc",
+            "quantity": 1,
+            "totalMoney": 25
+        },
+        {
+            "serviceName": "Classic Pedicure",
+            "employee": "Jessica",
+            "quantity": 5,
+            "totalMoney": 135
+        },
+        {
+            "serviceName": "Waxing",
+            "employee": "Abc",
+            "quantity": 1,
+            "totalMoney": 25
+        }
+    ]
+}
